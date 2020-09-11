@@ -10,7 +10,7 @@
 
 <br>
 
-<b>Code: *Coming soon...*</b> (planned release month: **November '20**)<br>
+### <b>Code: *Coming soon...*</b> (planned release month: **November '20**)<br>
 
 <img src=docs/images/teaser.png width=1200>
 
