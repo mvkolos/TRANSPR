@@ -12,10 +12,10 @@
 
 <b>Code: *Coming soon...*</b> (planned release month: **November '20**)<br>
 
-<img src=docs/images/teaser.jpg width=1200>
+<img src=docs/images/teaser.png width=1200>
 
 ## About
 
 This is a PyTorch implementation of TRANSPR, a new method for realtime photo-realistic rendering of 3D scenes with semi-transparent parts and complex geometry. This method is an extension of [Neural Point-Based Graphics](https://saic-violet.github.io/npbg) (NPBG) which uses a raw point cloud as the geometric representation of a scene, and augments each point with a learnable neural descriptor that encodes local geometry and appearance. In our method, we expand the descriptor with a learned transparency value, use ray accumulation to account all points perceived by the camera. The points along the rays are fused into an opacity-aware 2D representation processed by the rendering network. Several scenes can be rendered in conjunction, opacity of objects can be edited, and the non-transparent objects can be combined with the introduced transparency. The repository extends NPBG with the additional features. 
 
-<img src=docs/images/pipeline.jpg width=1200>
+<img src=docs/images/pipeline.png width=1200>
