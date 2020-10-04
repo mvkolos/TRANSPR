@@ -1,4 +1,7 @@
 # TRANSPR: Transparency Ray-Accumulating Neural 3D Scene Point Renderer
+
+### 3DV 2020
+
 ### <img align=center src=./docs/images/project.png width='32'/> [Project page](https://saic-violet.github.io/transpr) &ensp; <img align=center src=./docs/images/paper.png width='24'/> [Paper](https://arxiv.org/pdf/2009.02819.pdf)
 
 [TRANSPR: Transparency Ray-Accumulating Neural 3D Scene Point Renderer](https://arxiv.org/pdf/2009.02819.pdf)<br>
